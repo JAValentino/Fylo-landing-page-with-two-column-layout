@@ -2,4 +2,4 @@ Frontend Mentor Challenge: https://www.frontendmentor.io/challenges/fylo-landing
 
 Codepen: https://codepen.io/javalentino/pen/qBKBqGX
 
-Link: 
+Link: https://javalentino.github.io/Fylo-landing-page-with-two-column-layout/
